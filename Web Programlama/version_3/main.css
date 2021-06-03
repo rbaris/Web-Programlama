@@ -1,0 +1,49 @@
+          body{
+                background-image: url('img/background.jpg');
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+            }
+            .baslik {
+                background-color: seagreen;
+                border: 10px solid gray;
+                padding: 20px;
+                margin: 20px;
+            }
+            #baslangic{
+                font-size: 20px;
+            }
+            .yazi1{
+                border: 5px solid green;
+                padding: 20px;
+                margin: 20px;
+            }
+            .yazi2{
+                border: 5px solid green;
+                padding: 20px;
+                margin: 20px;
+            }
+            .yazi3{
+                border: 5px solid green;
+                padding: 20px;
+                margin: 20px;
+            }
+            .yazi4{
+                border: 5px solid green;
+                padding: 20px;
+                margin: 20px;
+            }
+            .yazi5{
+                border: 5px solid green;
+                padding: 20px;
+                margin: 20px;
+            }
+            .yazi6{
+                border: 5px solid green;
+                padding: 20px;
+                margin: 20px;
+            }
+            .yazi7{
+                border: 5px solid green;
+                padding: 20px;
+                margin: 20px;
+}
